@@ -7,6 +7,7 @@ package com.example.wyqgit;
  */
 public class StringUtil {
 
+    //aaa
     public boolean isNull(String str){
         if (str.equals("") || str == null){
             return true;
